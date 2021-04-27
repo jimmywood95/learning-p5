@@ -2,6 +2,10 @@
 
 [See the index on GitHub Pages](https://jimmywood95.github.io/learning-p5/)
 
+Work locally on a project and then add and commit the files to the repo when you are done.
+Rather than add commit push every time you save. VScode handily highlights in yellow any 
+changed files. Theres a lot more to learn about Git and GitHub but this is a start.
+
 #### Add any newly created files to 'staging' I think...
 git add .
 
