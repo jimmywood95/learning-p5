@@ -16,7 +16,7 @@ git commit -a -m "Note about the commit here"
 git push // git push origin main
 
 #### branching
-git branch <name>
+git branch -name-
 
 #### moving to a different branch
-git checkout <name>
+git checkout -name-
