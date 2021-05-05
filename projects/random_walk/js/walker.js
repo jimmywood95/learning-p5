@@ -8,7 +8,6 @@ class Walker {
     }
  
     update() {
-
         let mouse = createVector(mouseX, mouseY);
         this.acc = p5.Vector.sub(mouse, this.pos);
         this.acc.setMag(1);
@@ -21,8 +20,6 @@ class Walker {
         //this.pos.y += this.vel.y;
         // a.add(b);
         this.pos.add(this.vel);
-
-        
     }
 
     show() {
